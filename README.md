@@ -29,7 +29,6 @@ This is a static website
 #### Technologies
 
 - HTML
-- CSS
 
 
 
